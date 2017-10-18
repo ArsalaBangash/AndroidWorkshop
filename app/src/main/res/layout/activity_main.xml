@@ -19,14 +19,6 @@
         android:textSize="16sp" />
 
 
-    <!--<include-->
-    <!--android:id="@+id/todo_card"-->
-    <!--layout="@layout/todo_card"-->
-    <!--android:layout_width="wrap_content"-->
-    <!--android:layout_height="wrap_content"-->
-    <!--android:layout_below="@id/todo_text"-->
-    <!--android:layout_margin="24dp" />-->
-
     <ListView
         android:id="@+id/todo_list"
         android:layout_width="match_parent"
